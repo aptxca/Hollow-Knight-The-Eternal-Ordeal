@@ -1,0 +1,4 @@
+repository "Hollow Knight The Eternal Ordeal@ssl://aptxca@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"

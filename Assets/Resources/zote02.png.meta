@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 38b87f1634c4cbb4f8c12456049844e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8629854688185517659
+    second: zote02_0
+  - first:
+      213: 4913878915538372863
+    second: zote02_1
+  - first:
+      213: 1356402886175954292
+    second: zote02_2
+  - first:
+      213: -1234369993842373750
+    second: zote02_3
+  - first:
+      213: 5027280929317692118
+    second: zote02_4
+  - first:
+      213: 4216108452658789477
+    second: zote02_5
+  - first:
+      213: 6581283003155804261
+    second: zote02_6
+  - first:
+      213: -8257483204932087750
+    second: zote02_7
+  - first:
+      213: 7019201627277835132
+    second: zote02_8
+  - first:
+      213: -659242635467715153
+    second: zote02_9
+  - first:
+      213: -2894119366272996622
+    second: zote02_10
+  - first:
+      213: 1159790964422797386
+    second: zote02_11
+  - first:
+      213: 795015496935525283
+    second: zote02_12
+  - first:
+      213: 3911885498926334735
+    second: zote02_13
+  - first:
+      213: -948394046827786068
+    second: zote02_14
+  - first:
+      213: 1362512457372605809
+    second: zote02_15
+  - first:
+      213: -2637475487688801249
+    second: zote02_16
+  - first:
+      213: -7096349012899073214
+    second: zote02_17
+  - first:
+      213: 9066125160774035707
+    second: zote02_18
+  - first:
+      213: 1841179765170476378
+    second: zote02_19
+  - first:
+      213: 7653350281620336488
+    second: zote02_20
+  - first:
+      213: 8543001736611535669
+    second: zote02_21
+  - first:
+      213: 5965893088523000850
+    second: zote02_23
+  - first:
+      213: -4059159487333432787
+    second: zote02_24
+  - first:
+      213: 4729744940389320458
+    second: zote02_26
+  - first:
+      213: -2358263985100074478
+    second: zote02_27
+  - first:
+      213: -3171854644476919955
+    second: zote02_28
+  - first:
+      213: -3666598821509787280
+    second: zote02_29
+  - first:
+      213: -3388883412475009049
+    second: zote02_30
+  - first:
+      213: 2929844631397490455
+    second: zote02_31
+  - first:
+      213: 6609097185416129209
+    second: zote02_32
+  - first:
+      213: 5570079132933718220
+    second: zote02_33
+  - first:
+      213: 737554263521048771
+    second: zote02_34
+  - first:
+      213: 1168835140123789366
+    second: zote02_35
+  - first:
+      213: 3831530435492954022
+    second: zote02_36
+  - first:
+      213: 1612546602326837706
+    second: zote02_37
+  - first:
+      213: -7858945480759994663
+    second: zote02_38
+  - first:
+      213: -5506294250555594657
+    second: zote02_39
+  - first:
+      213: 2379981209048839991
+    second: zote02_40
+  - first:
+      213: -8978562032383211999
+    second: zote02_41
+  - first:
+      213: -694193286457521217
+    second: zote02_42
+  - first:
+      213: 7662862606113391878
+    second: zote02_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zote02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b568980bd1763c770800000000000000
+      internalID: 8629854688185517659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 876
+        width: 92
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff842fdb6da913440800000000000000
+      internalID: 4913878915538372863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 868
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47515da0d39e2d210800000000000000
+      internalID: 1356402886175954292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 841
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bcf93d703aedee0800000000000000
+      internalID: -1234369993842373750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 836
+        width: 78
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2a31a9e5d74c540800000000000000
+      internalID: 5027280929317692118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 96
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cbf3fbc40a28a30800000000000000
+      internalID: 4216108452658789477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 734
+        width: 88
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560fa61b50a655b50800000000000000
+      internalID: 6581283003155804261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 728
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d44f66c6876d80800000000000000
+      internalID: -8257483204932087750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 695
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3db0d0b6396160800000000000000
+      internalID: 7019201627277835132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 695
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad872cd056e9d6f0800000000000000
+      internalID: -659242635467715153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 772
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa28b325c506d7d0800000000000000
+      internalID: -2894119366272996622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 134
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48e020ccb7681010800000000000000
+      internalID: 1159790964422797386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 606
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc5cdd166780b00800000000000000
+      internalID: 795015496935525283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 556
+        width: 86
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03818d922fc94630800000000000000
+      internalID: 3911885498926334735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 549
+        width: 79
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca01cb3a3a0a6d2f0800000000000000
+      internalID: -948394046827786068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 635
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1dbf6cdd98e210800000000000000
+      internalID: 1362512457372605809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 416
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f144284940ec56bd0800000000000000
+      internalID: -2637475487688801249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 408
+        width: 89
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243f4fbbb24b48d90800000000000000
+      internalID: -7096349012899073214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 375
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8ea21acc851dd70800000000000000
+      internalID: 9066125160774035707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 489
+        width: 77
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a559f9ecd3f2d8910800000000000000
+      internalID: 1841179765170476378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_20
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 477
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fad9d2889263a60800000000000000
+      internalID: 7653350281620336488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 310
+        width: 131
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b964211d6de8670800000000000000
+      internalID: 8543001736611535669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_23
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 331
+        width: 72
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c1f55c72c1bc250800000000000000
+      internalID: 5965893088523000850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 331
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2285ded3f7faa7c0800000000000000
+      internalID: -4059159487333432787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 306
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074b1ac6fd63a140800000000000000
+      internalID: 4729744940389320458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 258
+        width: 83
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21253817663c54fd0800000000000000
+      internalID: -2358263985100074478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 138
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fb7cc810f4bf3d0800000000000000
+      internalID: -3171854644476919955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 152
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0711b0e5ccf9d1dc0800000000000000
+      internalID: -3666598821509787280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 128
+        width: 104
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a63ecd7448f0d0800000000000000
+      internalID: -3388883412475009049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_31
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 252
+        width: 148
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f58855b26e8a820800000000000000
+      internalID: 2929844631397490455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_32
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 215
+        width: 146
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba23c6afda38bb50800000000000000
+      internalID: 6609097185416129209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc08459b575ec4d40800000000000000
+      internalID: 5570079132933718220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3
+        width: 110
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c83fb7e1b15c3a00800000000000000
+      internalID: 737554263521048771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63882100e59883010800000000000000
+      internalID: 1168835140123789366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 104
+        width: 84
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb7a971a45c2530800000000000000
+      internalID: 3831530435492954022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 106
+        width: 83
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac94477579ae06610800000000000000
+      internalID: 1612546602326837706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_38
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 102
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6932649ba6fe290800000000000000
+      internalID: -7858945480759994663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_39
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3
+        width: 125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58abde7d86b593b0800000000000000
+      internalID: -5506294250555594657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_40
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f579cc44670120800000000000000
+      internalID: 2379981209048839991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_41
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1264df9e66db56380800000000000000
+      internalID: -8978562032383211999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_42
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb0d3b42eabd56f0800000000000000
+      internalID: -694193286457521217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zote02_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 606
+        width: 106
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054300d0f4f75a60800000000000000
+      internalID: 7662862606113391878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
